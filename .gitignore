@@ -1,0 +1,35 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training outputs
+runs/
+wandb/
+
+# Dataset (download separately)
+datasets/DsPCBSD+.zip
+datasets/dspcbsd/
+
+# Weights (optional, use GitHub Releases)
+weights/
+*.pt
+
+# Logs
+*.log

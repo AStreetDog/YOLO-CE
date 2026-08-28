@@ -1,0 +1,18 @@
+# DsPCBSD+ dataset configuration
+# Download from: https://figshare.com/articles/dataset/DsPCBSD_/25697498
+# Then run: python scripts/prepare_dspcbsd.py --zip-path datasets/DsPCBSD+.zip
+
+path: datasets/dspcbsd/yolo
+train: images/train
+val: images/val
+
+names:
+  0: SH
+  1: SP
+  2: SC
+  3: OP
+  4: MB
+  5: HB
+  6: CS
+  7: CFO
+  8: BMFO
