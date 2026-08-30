@@ -1,4 +1,4 @@
-# GASE-DSG-SAF: Lightweight PCB Defect Detection
+# YOLO-CE: Lightweight PCB Defect Detection
 
 Official implementation of *"Lightweight PCB Defect Detection via Accuracy-Efficiency Co-optimization"* (submitted to Journal of Real-Time Image Processing).
 
